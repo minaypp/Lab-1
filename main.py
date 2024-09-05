@@ -34,3 +34,12 @@ maze = [
     [1, 0, 0, 0, 1],
     [1, 1, 1, 0, 0]
 ]
+start_x, start_y = 0, 1
+exit_x, exit_y = 4, 4
+
+if find_path(maze, start_x, start_y, exit_x, exit_y):
+    print("Path found:")
+else:
+    print("Path not found:")
+
+print_maze(maze)
