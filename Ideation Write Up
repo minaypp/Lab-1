@@ -1,3 +1,4 @@
 Include a maze generator so there is an original "maze" everytime the code is run. 
 Addition of multiple exits and prompting the program to find the closest "exit".
 Make the program more interactive with the user, prompting the user to create a maze to challenge the program. 
+Add some RPG style elements where you can encounter enemies along the path, treasure, and traps, just to name a few ideas.
